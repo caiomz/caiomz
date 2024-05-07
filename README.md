@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá, meu nome é Caio! 👋
 
-<!--
-**caiomz/caiomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Tenho 18 anos e estou crusando a 3ª fase de Ciência da Computação na [FURB](https://www.furb.br/pt)
+- 💻 Atualmente aprendendo
+<div display="inline">
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
 
-Here are some ideas to get you started:
+- Você também me encontra em:
+<a href="https://www.instagram.com/caioo.abraao/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/caio-abraão-manarim-06b50326a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:caioabraao10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Caio Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomz&show_icons=true&theme=radical)
+
+  
+
+  
