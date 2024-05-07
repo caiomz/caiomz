@@ -1,6 +1,9 @@
 ### Olá, meu nome é Caio! 👋
 
 - 👨🏻‍💻 Tenho 18 anos e estou crusando a 3ª fase de Ciência da Computação na [FURB](https://www.furb.br/pt)
+
+<br>
+
 - 💻 Atualmente aprendendo
 <div display="inline">
 <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -12,6 +15,8 @@
 <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
+<br>
+
 - Você também me encontra em:
 <a href="https://www.instagram.com/caioo.abraao/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -22,9 +27,14 @@
 <a href="mailto:caioabraao10@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br><br><br><br>
+
+<br><br>
 
 ![Caio Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomz&show_icons=true&theme=radical)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomz)](https://github.com/caiomz/github-readme-stats)
 
   
 
