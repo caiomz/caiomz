@@ -17,7 +17,7 @@
 
 <br>
 
-- Você também me encontra em:
+- 📱 Você também me encontra em:
 <a href="https://www.instagram.com/caioo.abraao/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
