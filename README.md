@@ -30,7 +30,7 @@
 
 <br><br>
 
-![Caio Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomz&show_icons=true&theme=shadow_green)
+![Caio Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomz&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomz&layout=compact)]
 
