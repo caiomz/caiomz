@@ -1,6 +1,6 @@
 # Olá, meu nome é Caio! 👋
 
-- 👨🏻‍💻 Tenho 19 anos e estou cursando a 4ª fase de Ciência da Computação na [FURB](https://www.furb.br/pt).
+- 👨🏻‍💻 Tenho 19 anos e estou cursando a 5ª fase de Ciência da Computação na [FURB](https://www.furb.br/pt).
 
 <br>
 
